@@ -43,7 +43,8 @@ python calculator.py
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2024-11-22 234832](https://github.com/user-attachments/assets/e481ca67-e4b9-4ef9-adca-71362b900e7d)
+
 
 
 ## Future Enhancements 🛠️
